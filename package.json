@@ -1,0 +1,1 @@
+{"name":"fdm-sysbi-promo","private":true,"scripts":{"start":"npx --yes serve -s . -l $PORT"}}
