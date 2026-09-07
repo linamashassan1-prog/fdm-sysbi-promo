@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fdm-sysbi-promo-production.up.railway.app/sitemap.xml
